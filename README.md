@@ -1,2 +1,2 @@
-# Java-Server-Pages
-One of the steps of an application form
+# Spring-MVC
+Java Server Pages, Controller, Handler, Object, Servlet
